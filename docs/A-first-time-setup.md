@@ -42,4 +42,4 @@ Go to Settings → Developer:
 
 
 ## You have completed this section
-- You can move to the next section [Section B](docs/B-spatial-anchor.md)
+- You can move to the next section [Section B](B-spatial-anchor.md)
