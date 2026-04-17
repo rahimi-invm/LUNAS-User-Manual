@@ -12,13 +12,28 @@ This guide covers:
 - User interaction
 - Troubleshooting
 
+## Why This Documentation Exists
+
+Instead of sharing setup instructions through email or static PDF files, this documentation is maintained in a structured repository for the following reasons:
+
+- **Centralized Source of Truth**  
+  All instructions are kept in one place, reducing version mismatch across different documents or email threads  
+
+- **Always Up-to-Date**  
+  Updates can be made instantly without needing to resend files or notify users of new versions  
+
+- **Modular and Easy to Navigate**  
+  Content is split into sections (Setup, Deployment, Troubleshooting), allowing users to quickly find what they need 
+
 ## Prerequisites
 
 - A laptop (VR-ready recommended)
 - Meta Quest 3 headset
-- Meta Horizon mobile app
+- Meta Horizon mobile app (for 1st time setup Meta Quest 3)
 - Meta Horizon Link (installed on laptop)
-- Meta Horizon account
+- Meta Horizon account (Use 1 account that have been created)
+- VR Link Cable
+- Internet Connection
 - LUNAS App
 
 ## Quick Start

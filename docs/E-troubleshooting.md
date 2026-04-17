@@ -44,3 +44,4 @@ Final Notes
 - Restart Meta Horizon Link if unexpected issues occur
 
 ## New troubleshoot will be added
+- Any future troubleshoot with solutions will came up here
