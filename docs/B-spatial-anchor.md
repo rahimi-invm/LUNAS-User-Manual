@@ -63,4 +63,4 @@ Key Insight:
 - Avoid excessive adjustment to prevents desynchronization  
 
 ## You have completed this section
-- You can move to the next section [Section c](docs/B-spatial-anchor.md)
+- You can move to the next section [Section c](C-deployment.md)

@@ -27,10 +27,10 @@ Use when:
 
 Function:
 - Resets the spatial anchor
-- Re-initiates placement [refer to Section B](docs/B-spatial-anchor.md/c7-anchor-placement)
+- Re-initiates placement [refer to Section B](B-spatial-anchor.md/#c7-anchor-placement)
 
 Best Practice:
 - Use Re-anchor instead of excessive manual adjustment
 
 ## You have completed this section
-- You can move to the next section [Section E: Troubleshooting](docs/E-troubleshooting.md)
+- You can move to the next section [Section E: Troubleshooting](E-troubleshooting.md)

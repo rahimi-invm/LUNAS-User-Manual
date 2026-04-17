@@ -8,7 +8,7 @@
 - Headset powered on and paired  
 
 ## C3. Connect Headset
-- Air Link or Link Cable [refer to Section A7](docs/A-first-time-setup.md/#A7-Connect-Headset-to-Laptop)
+- Air Link or Link Cable [refer to Section A7](A-first-time-setup.md/#A7-Connect-Headset-to-Laptop)
 
 ## C4. Verify Connection
 - White floor and ceiling with gridlines environment visible  
@@ -53,4 +53,4 @@ If you are not happy with the placement, you can adjust using the following meth
 - You can now use the application
 
 ## You have completed this section
-- You can move to the next section [Section D: User Manual](docs/D-user-manual.md)
+- You can move to the next section [Section D: User Manual](D-user-manual.md)
