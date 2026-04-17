@@ -27,6 +27,7 @@ This guide covers:
 2. Understand spatial anchor → [Section B](docs/B-spatial-anchor.md)
 3. Deploy and run app → [Section C](docs/C-deployment.md)
 4. Learn controls → [Section D](docs/D-user-manual.md)
+5. Troubleshooting → [SectionE](docs/E-troubleshooting.md)
 
 ## Full Documentation
 
